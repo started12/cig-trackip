@@ -16,7 +16,7 @@
 * `apt update`
 * `apt install git curl -y`
 * `git clone git://github.com/started12/cig-iptracker`
-* `cd cig-iptracker`
+* `cd cig-trackip`
 
 #### > Run : `bash cig-iptracker`
 
