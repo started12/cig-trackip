@@ -22,7 +22,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/started12/cig-iptracker ; cd cig-iptracker ; bash cig-iptracker
+apt update ; apt install git curl -y ; git clone git://github.com/started12/cig-trackip ; cd cig-trackip ; bash cig-iptracker
 ```
 <br>
 <p align="center">
